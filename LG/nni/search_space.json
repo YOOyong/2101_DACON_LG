@@ -1,0 +1,8 @@
+{
+    "max_depth" :{"_type":"randint","_value":[5,25]},
+    "num_leaves":{"_type":"randint","_value":[10,100]},
+    "learning_rate":{"_type":"uniform","_value":[0.01,0.2]},
+    "subsample":{"_type":"uniform","_value":[0.5, 1.0]},
+    "subsample_freq":{"_type":"randint","_value":[1, 10]},
+    "reg_alpha":{"_type":"uniform","_value":[0, 0.5]}
+}
