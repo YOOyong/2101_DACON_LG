@@ -34,7 +34,9 @@
 [최종 결과]
 
   9위 : LearningHB  
-  
+
+---
+![](/lg_pdf_img.jpg)
   
   
   
